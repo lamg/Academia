@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Academia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alumnos">Agregar alumnos</string>
+    <string name="title_activity_cursos">Gestionar cursos</string>
+    <string name="title_activity_reportes">Seleccionar curso</string>
+    <string name="title_activity_notas">Seleccionar alumno</string>
+    <string name="title_activity_nota_curso">Seleccionar curso</string>
+    <string name="title_activity_agregar_nota">Agregar nota</string>
+    <string name="title_activity_gestionar_alumnos">Gestionar alumnos</string>
+    <string name="title_activity_eliminar_alumno">Eliminar alumno</string>
+    <string name="title_activity_gestionar_cursos">Gestionar cursos</string>
+    <string name="title_activity_eliminar_curso">Eliminar curso</string>
+    <string name="title_activity_reporte_notas">Alumnos segun nota</string>
+</resources>
